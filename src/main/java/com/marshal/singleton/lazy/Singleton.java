@@ -7,6 +7,12 @@ package com.marshal.singleton.lazy;
  * @Description:
  */
 
+/**
+ * 单例模式 懒汉式
+ * 线程不安全
+ * 懒加载
+ * 不可用
+ */
 public class Singleton {
 
     private Singleton() {}

@@ -7,6 +7,13 @@ package com.marshal.singleton.hungry;
  * @Description:
  */
 
+/**
+ * 单例模式 饿汉式
+ * 线程安全
+ * 非懒加载
+ * 优点：实现简单，类加载的时候就完成了实例化，避免了线程的同步问题
+ * 缺点：类加载时候就实例化，没有达到懒加载效果，造成内存浪费
+ */
 public class Singleton {
 
     //私有构造方法

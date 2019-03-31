@@ -21,7 +21,7 @@ public class Client {
 
     public static void main(String[] args) {
         RouJiaMoStoreFactory laRouJiaMoStoreFactory = new LaRouJiaMoStoreFactory();
-        SuanRouJiaMoStoreFactory suanRouJiaMoStoreFactory = new SuanRouJiaMoStoreFactory();
+        RouJiaMoStoreFactory suanRouJiaMoStoreFactory = new SuanRouJiaMoStoreFactory();
         RouJiaMo laRouJiaMo = laRouJiaMoStoreFactory.createRouJiaMo();
         RouJiaMo suanRouJiaMo = suanRouJiaMoStoreFactory.createRouJiaMo();
         laRouJiaMo.getName();

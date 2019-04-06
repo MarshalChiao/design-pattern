@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="611c6653-860e-4437-8acd-8946c1d01e97" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/marshal/factory/factorymethod/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/marshal/factory/factorymethod/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/marshal/factory/simplefactory/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/marshal/factory/simplefactory/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/marshal/factory/simplefactory/SimpleRouJiaMoFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/marshal/factory/simplefactory/SimpleRouJiaMoFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/marshal/Strategy/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/marshal/Strategy/Client.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -17,20 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/marshal/factory/abstractfactory/Client.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="483">
-              <caret line="21" column="52" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/marshal/Strategy/Client.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="552">
-              <caret line="24" column="59" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="59" />
+            <state relative-caret-position="182">
+              <caret line="23" column="69" selection-start-line="23" selection-start-column="69" selection-end-line="23" selection-end-column="69" />
             </state>
           </provider>
         </entry>
@@ -44,11 +33,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/marshal/factory/factorymethod/Client.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="506">
-              <caret line="22" column="71" selection-start-line="22" selection-start-column="71" selection-end-line="22" selection-end-column="71" />
+              <caret line="22" column="80" selection-start-line="22" selection-start-column="58" selection-end-line="22" selection-end-column="80" />
             </state>
           </provider>
         </entry>
@@ -62,6 +51,15 @@
                 <element signature="e#263#264#0" expanded="true" />
                 <element signature="e#302#303#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/marshal/Strategy/ConcreteStrategy2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -173,12 +171,12 @@
         <option value="$PROJECT_DIR$/src/main/java/com/marshal/Strategy/ConcreteStrategy2.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/marshal/Strategy/ConcreteStrategy3.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/marshal/Strategy/Context.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/marshal/Strategy/Client.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/marshal/Strategy/ConcreteStrategy1.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/marshal/Strategy/Strategy.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/marshal/factory/simplefactory/SimpleRouJiaMoFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/marshal/factory/simplefactory/Client.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/marshal/factory/factorymethod/Client.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/marshal/Strategy/Client.java" />
       </list>
     </option>
   </component>
@@ -210,6 +208,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -250,45 +249,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="marshal" type="462c0819:PsiDirectoryNode" />
-              <item name="factory" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design-pattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design-pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="marshal" type="462c0819:PsiDirectoryNode" />
-              <item name="factory" type="462c0819:PsiDirectoryNode" />
-              <item name="abstractfactory" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design-pattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design-pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="marshal" type="462c0819:PsiDirectoryNode" />
-              <item name="factory" type="462c0819:PsiDirectoryNode" />
-              <item name="factorymethod" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design-pattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design-pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="marshal" type="462c0819:PsiDirectoryNode" />
-              <item name="factory" type="462c0819:PsiDirectoryNode" />
-              <item name="simplefactory" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design-pattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design-pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="marshal" type="462c0819:PsiDirectoryNode" />
               <item name="Strategy" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -317,13 +277,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553999579138" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554026201721" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../DesignPattern" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="D:/nodeJS/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -494,7 +453,9 @@
       <workItem from="1552892212862" duration="31490000" />
       <workItem from="1553060288873" duration="27118000" />
       <workItem from="1553936316912" duration="4359000" />
-      <workItem from="1553948560663" duration="3392000" />
+      <workItem from="1553948560663" duration="4562000" />
+      <workItem from="1554207835800" duration="1857000" />
+      <workItem from="1554541668899" duration="1327000" />
     </task>
     <task id="LOCAL-00001" summary="add singleton">
       <created>1551778306829</created>
@@ -545,17 +506,24 @@
       <option name="project" value="LOCAL" />
       <updated>1553938990435</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="modify note">
+      <created>1553999770560</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1553999770560</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="93948000" />
+    <option name="totallyTimeSpent" value="98302000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26865673" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2739872" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -600,7 +568,8 @@
     <MESSAGE value="add proxy pattern include static and dynamic and cglib" />
     <MESSAGE value="add template pattern definition" />
     <MESSAGE value="add strategy design pattern" />
-    <option name="LAST_COMMIT_MESSAGE" value="add strategy design pattern" />
+    <MESSAGE value="modify note" />
+    <option name="LAST_COMMIT_MESSAGE" value="modify note" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/com/marshal/factory/abstractfactory/DellKeyboard.java">
@@ -770,20 +739,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/marshal/template/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/marshal/Strategy/ConcreteStrategy2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/marshal/Strategy/ConcreteStrategy3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
@@ -940,31 +895,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/marshal/Strategy/ConcreteStrategy1.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/marshal/template/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/marshal/factory/factorymethod/RouJiaMoStoreFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
-          <caret line="9" column="52" selection-start-line="9" selection-start-column="52" selection-end-line="9" selection-end-column="52" />
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/marshal/Strategy/Strategy.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/marshal/factory/factorymethod/Client.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        <state relative-caret-position="506">
+          <caret line="22" column="80" selection-start-line="22" selection-start-column="58" selection-end-line="22" selection-end-column="80" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/marshal/Strategy/Context.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/marshal/factory/factorymethod/LaRouJiaMoStoreFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/marshal/Strategy/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="24" column="59" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="59" />
+        <state relative-caret-position="207">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="e#263#264#0" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -982,28 +941,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/marshal/factory/factorymethod/RouJiaMoStoreFactory.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/marshal/Strategy/Strategy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        <state relative-caret-position="276">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/marshal/factory/factorymethod/LaRouJiaMoStoreFactory.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/marshal/Strategy/ConcreteStrategy1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding>
-            <element signature="e#263#264#0" expanded="true" />
-            <element signature="e#302#303#0" expanded="true" />
-          </folding>
+          <caret line="9" column="52" selection-start-line="9" selection-start-column="52" selection-end-line="9" selection-end-column="52" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/marshal/factory/factorymethod/Client.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/marshal/Strategy/ConcreteStrategy2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="22" column="71" selection-start-line="22" selection-start-column="71" selection-end-line="22" selection-end-column="71" />
+        <state relative-caret-position="230">
+          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/marshal/Strategy/Context.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/marshal/Strategy/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="23" column="69" selection-start-line="23" selection-start-column="69" selection-end-line="23" selection-end-column="69" />
         </state>
       </provider>
     </entry>

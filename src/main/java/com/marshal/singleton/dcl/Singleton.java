@@ -17,13 +17,13 @@ public class Singleton {
 
     private Singleton() {}
 
-    private volatile static Singleton instance;
+    private volatile static Singleton instance; // volatile修饰
 
     public static Singleton getInstance() {
-        if (instance == null) {
-            synchronized (Singleton.class) {
+        if (instance == null) { // 减少不必要同步，优化性能
+            synchronized (Singleton.class) { // 同步，线程安全
                 if (instance == null) {
-                    instance = new Singleton();
+                    instance = new Singleton(); // 创建对象
                 }
             }
         }
